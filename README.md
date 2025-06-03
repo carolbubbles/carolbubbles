@@ -1,4 +1,4 @@
-Bem-vindo(a) ao perfil da Bubbles 😁Add commentMore actions
+Bem-vindo(a) ao perfil da Bubbles 😁
 
  <div>
    <a href="https://github.com/carolbubbles">
